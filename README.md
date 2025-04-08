@@ -33,7 +33,6 @@ Assim que o programa é iniciado:
 
 1. Clone o projeto ou baixe o arquivo `organizador_arquivos.py`
 2. Crie e ative uma virtualenv (opcional):
-```bash
 python -m venv .venv
 source .venv/Scripts/activate
 3. Instale o PyInstaller (caso queira gerar .exe):
