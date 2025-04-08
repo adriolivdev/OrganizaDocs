@@ -1,0 +1,23 @@
+# Pasta da virtualenv (não deve ser enviada)
+.venv/
+
+# Arquivos de build do PyInstaller
+build/
+dist/
+__pycache__/
+*.spec
+
+# Arquivos temporários e do sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos do Windows Explorer
+desktop.ini
+
+
