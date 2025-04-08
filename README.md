@@ -29,7 +29,7 @@ Assim que o programa é iniciado:
 
 ---
 
-## ▶️ Como usar (com Python instalado)
+## ▶️ Como usar (com Python instalado e sem o Python instalado!)
 
 1. Clone o projeto ou baixe o arquivo `organizador_arquivos.py`
 2. Crie e ative uma virtualenv (opcional):
